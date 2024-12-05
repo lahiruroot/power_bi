@@ -4,6 +4,8 @@
 
 This guide will walk you through the process of running scripts and updating the CSV data model for EVs in Australia, along with additional resources for understanding the EV adoption trends and charging infrastructure.
 
+## Check the commit message 'Resources' for the support
+
 ## Steps:
 
 ### 1. Rerun the following Python script to get a list of EVs in Australia
