@@ -1,6 +1,6 @@
-# That is a brief outline of what you need to complete
+# TASK TO DO is a brief outline of what you need to complete
 
-My github link is as follows EVAT-Data-Science/personal-work/john-collins at main · Chameleon-company/EVAT-Data-Science
+github link is as follows EVAT-Data-Science/personal-work/john-collins at main · Chameleon-company/EVAT-Data-Science
 
 Data Science Use cases Electric Vehicle Adoption Team (EVAT) Use Cases 
 
