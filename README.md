@@ -78,7 +78,9 @@ This guide will walk you through the process of running scripts and updating the
 
 - **Interactive Map**: There is a useful map relating to EV charging stations, which can be compared to the data in the video.
   - **Map**: [Interactive: EV Charging Stations Across the U.S. Mapped](https://www.example.com/ev-charging-map)
-  - **Action**: Compare this map to the data in the PowerPoint presentation to gain insights on the location and availability of charging stations across the U.S.
+  - **Action**: Compare this map to the data in the PowerPoint presentation to gain insights on the location and availability of charging stations across the U.S
+  - **Project Dashboard**: Access the [ON TRACK SUBMISSION LINK](https://ontrack.deakin.edu.au/#/projects/104962/dashboard/1.3P) for the latest updates on the EV analysis and project progress.
+
 
 ---
 
